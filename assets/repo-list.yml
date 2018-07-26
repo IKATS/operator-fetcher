@@ -11,31 +11,31 @@
 - url: https://github.com/IKATS/op-cut_y.git
   ref: 0.8.1
 - url: https://github.com/IKATS/op-decision_tree.git
-  ref: 0.8.1
+  ref: 0.9.0
 - url: https://github.com/IKATS/op-decision_tree_cv.git
-  ref: 0.8.1
+  ref: 0.9.0
 - url: https://github.com/IKATS/op-discretization.git
-  ref: 0.8.1
+  ref: 0.8.2
 - url: https://github.com/IKATS/op-kmeans.git
   ref: 0.8.1
 - url: https://github.com/IKATS/op-paa.git
   ref: 0.8.1
 - url: https://github.com/IKATS/op-pattern.git
-  ref: 0.8.1
+  ref: 0.8.2
 - url: https://github.com/IKATS/op-quality_stats.git
   ref: 0.8.1
 - url: https://github.com/IKATS/op-resampling.git
   ref: 0.8.1
 - url: https://github.com/IKATS/op-rollmean.git
-  ref: 0.8.1
+  ref: 0.8.2
 - url: https://github.com/IKATS/op-sax.git
-  ref: 0.8.1
+  ref: 0.8.2
 - url: https://github.com/IKATS/op-slope.git
   ref: 0.8.1
 - url: https://github.com/IKATS/op-ts_cut.git
-  ref: 0.8.1
+  ref: 0.9.0
 - url: https://github.com/IKATS/op-unwrap.git
   ref: 0.8.1
 - url: https://github.com/IKATS/op-export_ts.git
-  ref: feature/499
+  ref: 0.10.0
 
