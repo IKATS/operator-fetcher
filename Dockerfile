@@ -3,12 +3,13 @@ FROM ubuntu:18.04
 LABEL license="Apache License, Version 2.0"
 LABEL copyright="CS Systèmes d'Information"
 LABEL maintainer="contact@ikats.org"
-LABEL version="0.10.0"
+LABEL version="0.10.1"
 
 # Install dependencies
 RUN apt-get update && \
   apt-get install -y --no-install-recommends \
   git \
+  rsync \
   python3 \
   python3-yaml \
   python3-pip \
