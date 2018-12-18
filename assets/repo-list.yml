@@ -40,4 +40,6 @@
   ref: 0.10.1
 - url: https://github.com/IKATS/op-scale.git
   ref: 0.11.0
+- url: https://github.com/IKATS/op-pca.git
+  ref: master
 
