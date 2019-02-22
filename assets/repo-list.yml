@@ -7,37 +7,39 @@
 #   ref: git_reference          # can be a branch, a sha1 or a tag
 #
 - url: https://github.com/IKATS/op-correlation.git
-  ref: 0.8.1
+  ref: 0.8.2
 - url: https://github.com/IKATS/op-cut_y.git
-  ref: 0.8.1
+  ref: 0.8.2
 - url: https://github.com/IKATS/op-decision_tree.git
-  ref: 0.9.1
+  ref: 0.9.2
 - url: https://github.com/IKATS/op-decision_tree_cv.git
-  ref: 0.9.1
+  ref: 0.9.2
 - url: https://github.com/IKATS/op-discretization.git
-  ref: 0.8.2
-- url: https://github.com/IKATS/op-kmeans.git
-  ref: 0.8.2
-- url: https://github.com/IKATS/op-paa.git
-  ref: 0.8.1
-- url: https://github.com/IKATS/op-pattern.git
   ref: 0.8.3
-- url: https://github.com/IKATS/op-quality_stats.git
-  ref: 0.8.1
-- url: https://github.com/IKATS/op-resampling.git
-  ref: 0.8.2
-- url: https://github.com/IKATS/op-rollmean.git
+- url: https://github.com/IKATS/op-kmeans.git
   ref: 0.9.0
-- url: https://github.com/IKATS/op-sax.git
+- url: https://github.com/IKATS/op-paa.git
   ref: 0.8.2
-- url: https://github.com/IKATS/op-slope.git
-  ref: 0.8.1
-- url: https://github.com/IKATS/op-ts_cut.git
+- url: https://github.com/IKATS/op-pattern.git
+  ref: 0.8.4
+- url: https://github.com/IKATS/op-quality_stats.git
+  ref: 0.8.2
+- url: https://github.com/IKATS/op-resampling.git
+  ref: 0.8.3
+- url: https://github.com/IKATS/op-rollmean.git
   ref: 0.9.1
+- url: https://github.com/IKATS/op-sax.git
+  ref: 0.8.3
+- url: https://github.com/IKATS/op-slope.git
+  ref: 0.8.2
+- url: https://github.com/IKATS/op-ts_cut.git
+  ref: 0.9.2
 - url: https://github.com/IKATS/op-unwrap.git
-  ref: 0.8.1
+  ref: 0.8.2
 - url: https://github.com/IKATS/op-export_ts.git
-  ref: 0.10.1
+  ref: 0.10.2
 - url: https://github.com/IKATS/op-scale.git
-  ref: 0.11.0
+  ref: 0.11.1
+- url: https://github.com/IKATS/op-pca.git
+  ref: 0.1.0
 
